@@ -1,0 +1,47 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Verdana, sans-serif;
+}
+
+.container{
+    border: 1px solid black;
+    width:1500px;
+    position: absolute;
+    left: 15%;
+    padding:15px;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+.ingredients {
+    float:left;
+    width:400px;
+    margin:auto;
+    padding:15px;
+    border: 1px solid black;
+}
+
+.image-container{
+    float:left;
+    border: 1px solid black;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+
+.image{
+    width:100%;
+    height:auto;
+}
+
+.steps {
+    float:left;
+    width:300px;
+    margin:auto;
+    padding:15px;
+    border: 1px solid black;
+}
